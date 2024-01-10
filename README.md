@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yngqual1ty
-- 👀 I’m interested in Backend development
+- 👀 I’m interested in Frontend/Backend/Mobile development
 - 🌱 I’m currently learning Python, Kotlin
 - 💞️ I’m looking for an internship
 - 📫 How to reach me - telegram in bio
